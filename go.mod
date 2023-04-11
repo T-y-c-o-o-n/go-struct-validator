@@ -1,4 +1,4 @@
-module homework
+module github.com/T-y-c-o-o-n/go-struct-validator
 
 go 1.19
 
