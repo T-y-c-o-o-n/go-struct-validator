@@ -1,4 +1,4 @@
-module github.com/T-y-c-o-o-n/go-struct-validator
+module github.com/T-y-c-o-o-n/validator
 
 go 1.19
 
